@@ -9,3 +9,7 @@ SELECT CASE
          ELSE 'Scalene'
        END
 FROM   triangles;
+
+1 2 3 4 5, 5 / 2 = 2.5 -> 3, 6/2 -> 3
+
+1 2 3 4 5 6, 6/2 -> 3, CEIL(7/2)
